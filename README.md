@@ -42,3 +42,15 @@ Un curs anomenat B amb 5 temes.
 <img width="818" height="832" alt="TaskGrade" src="https://github.com/user-attachments/assets/a84023f3-fce2-4069-95bd-f1d8fdbbc486" />
 
 ### Insígnies
+<img width="941" height="482" alt="Badge" src="https://github.com/user-attachments/assets/1fc1ed53-d7d6-4728-b569-9ec014cdff9a" />
+### Creeu una insignia i atorgueu-la a un alumne
+<img width="401" height="677" alt="RitaProfileBadge" src="https://github.com/user-attachments/assets/82356a74-9b46-4781-882f-c25bbdbdad8f" />
+
+## 9. Qüestionaris
+<img width="445" height="243" alt="questionari" src="https://github.com/user-attachments/assets/b0d5ed3c-3783-4e76-867b-c8be8c6cbfd1" />
+### Respongueu les preguntes amb un usuari estudiant i verifiqueu les qualificacions amb l'usuari professor.
+<img width="941" height="482" alt="questionari_nota" src="https://github.com/user-attachments/assets/6043bb6e-7bbb-409a-9021-2b1a99f54c92" />
+
+## 11. Seguretat
+### Bannegeu una IP específica i apliqueu una política de seguretat
+<img width="773" height="443" alt="IPBan" src="https://github.com/user-attachments/assets/228077e0-d54c-4372-a46b-fd07bf799f61" />
